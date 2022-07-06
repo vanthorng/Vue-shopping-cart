@@ -1,0 +1,12 @@
+{
+  "name": "vue-shopping-cart",
+  "version": "1.0.0",
+  "description": "https://codyhouse.co/demo/quick-add-to-cart/index.html\n",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "vuex": "2.4.0",
+    "vue-router": "2.7.0",
+    "vue": "2.4.2"
+  }
+}
